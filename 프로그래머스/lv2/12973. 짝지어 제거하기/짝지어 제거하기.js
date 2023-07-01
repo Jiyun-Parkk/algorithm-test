@@ -10,12 +10,12 @@ function solution(s){
                if(arr[arr.length - 1] === s[i]) {
                 arr.pop()
                 count++;
-                if(s.length === 0) break;
               } else {
                 arr.push(s[i])
              } 
             } 
         }
+       if(s.length === 0) break;
         s = arr.join('');
         if(count === 0) break;
     }
