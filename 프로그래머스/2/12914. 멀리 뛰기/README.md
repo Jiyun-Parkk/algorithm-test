@@ -1,10 +1,10 @@
 # [level 2] 멀리 뛰기 - 12914 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12914) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12914?language=java) 
 
 ### 성능 요약
 
-메모리: 33.5 MB, 시간: 0.22 ms
+메모리: 75.5 MB, 시간: 0.10 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2023년 11월 1일 16:47:49
+2023년 11월 1일 16:58:35
 
 ### 문제 설명
 
